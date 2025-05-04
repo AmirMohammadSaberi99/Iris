@@ -3,8 +3,6 @@
 The user needs a README for three Python scripts. The README should cover the purpose of each script, how to install dependencies, how to run them, and possibly usage examples. I'll format the README in Markdown. For the three scripts, I'll include a brief description and maybe use citations to bring in content from the files where relevant. It's important to keep the documentation clear and straightforward to help users understand and run the scripts. Let's get that started!
 
 
-Thought for 4 seconds
-
 
 # Iris Processing Suite
 
